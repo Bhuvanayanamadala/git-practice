@@ -1,1 +1,14 @@
-hi 
+git init 
+mkdir
+touch file
+ls
+git status
+git add .
+git config --global user.name "Bhuvanayanamadala"
+git config --global user.email "durgayanamadala11@gmail.com"
+git config --list 
+git commit -m "commited"
+git log
+git remote add origin url
+git push origin -u master 
+git pull origin master
